@@ -1,6 +1,3 @@
-% target detection based on
-% variance difference method
-
 clearvars
 close all
 clc
